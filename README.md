@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 
-It is my professional profile at Philips
-My personal profile is @jonathantvrs
+It is my professional profile at Philips.
+
+My personal profile is [jonathantvrs](https://github.com/jonathantvrs)
